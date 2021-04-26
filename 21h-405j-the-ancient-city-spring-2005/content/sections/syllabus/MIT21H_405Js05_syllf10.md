@@ -1,0 +1,13 @@
+---
+course_id: 21h-405j-the-ancient-city-spring-2005
+description: This syllabus provides information on readings and resources, assignments
+  and assessment, and the schedule of course meetings.
+file_location: /coursemedia/21h-405j-the-ancient-city-spring-2005/7c14f80ac1409080832eada534c5850f_MIT21H_405Js05_syllf10.pdf
+file_type: application/pdf
+layout: pdf
+title: Fall 2010 Syllabus
+type: course
+uid: 7c14f80ac1409080832eada534c5850f
+
+---
+None
